@@ -1,0 +1,31 @@
+h1{
+    color:#0F0F;
+    text-align: center;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+
+}
+.header{
+    background-color:#9A8B10;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+}
+.grid{ 
+    display: inline;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex-direction: column;
+}
+p{
+    color: #00FF;
+    font-weight: bold;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    
+}
+body{
+  background-image: url("wp2836003-light-background.jpg");
+}
+.site-descriction{
+    display: flex;
+    flex-direction: row;
+}
